@@ -97,7 +97,3 @@ class PluginCLI extends CLI {
         return null;
     }
 }
-
-// Main
-$cli = new PluginCLI();
-$cli->run();
